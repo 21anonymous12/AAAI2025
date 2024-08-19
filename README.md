@@ -16,8 +16,44 @@ The MathSpeech benchmark dataset is available on huggingface🤗.
 - [MathSpeech in huggingface🤗 dataset](https://huggingface.co/datasets/1anonymous1/MathSpeech)
 
 
+<table border="1" style="border-collapse: collapse; width: 50%;">
+    <caption style="font-size: 1.5em; font-weight: bold; text-align: center; margin-bottom: 10px;">
+      Dataset statistics
+    </caption>
+    <thead>
+        <tr>
+            <th style="text-align: left;">Total Duration</th>
+            <td>5583.2 seconds</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th style="text-align: left;">Average Duration per file</th>
+            <td>5.07 seconds</td>
+        </tr>
+        <tr>
+            <th style="text-align: left;">The number of men</th>
+            <td>8</td>
+        </tr>
+        <tr>
+            <th style="text-align: left;">The number of women</th>
+            <td>2</td>
+        </tr>
+        <tr>
+            <th style="text-align: left;">source</th>
+            <td>MIT OpenCourseWare</td>
+        </tr>
+    </tbody>
+</table>
+
+
+
+
 
 <table style="width:100%; border-collapse: collapse;">
+  <caption style="font-size: 1.5em; font-weight: bold; text-align: center; margin-bottom: 10px;">
+    The WER for Leaderboard was from the HuggingFace Open ASR Leaderboard, while the WER for Formula was measured using our MathSpeech Benchmark.
+  </caption>
   <thead>
     <tr>
       <th></th>
@@ -62,40 +98,8 @@ The MathSpeech benchmark dataset is available on huggingface🤗.
     </tr>
   </tbody>
 </table>
-<div style="text-align: center; font-size: small; margin-top: 10px;">
-  The WER for Leaderboard was from the HuggingFace Open ASR Leaderboard, while the WER for Formula was measured using our MathSpeech Benchmark.
-</div>
 
 
-<table border="1" style="border-collapse: collapse; width: 50%;">
-    <thead>
-        <tr>
-            <th style="text-align: left;">Total Duration</th>
-            <td>5583.2 seconds</td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <th style="text-align: left;">Average Duration per file</th>
-            <td>5.07 seconds</td>
-        </tr>
-        <tr>
-            <th style="text-align: left;">The number of men</th>
-            <td>8</td>
-        </tr>
-        <tr>
-            <th style="text-align: left;">The number of women</th>
-            <td>2</td>
-        </tr>
-        <tr>
-            <th style="text-align: left;">source</th>
-            <td>MIT OpenCourseWare</td>
-        </tr>
-    </tbody>
-</table>
-<div style="text-align: center; font-size: small; margin-top: 10px;">
-    Dataset statistics
-</div>
 
 
 
