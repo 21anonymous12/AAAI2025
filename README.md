@@ -37,7 +37,7 @@ The MathSpeech benchmark dataset is available on huggingface🤗.
         </tr>
         <tr>
             <th style="text-align: left;">The number of speakers</th>
-            <td>8</td>
+            <td>10</td>
         </tr>
         <tr>
             <th style="text-align: left;">The number of men</th>
