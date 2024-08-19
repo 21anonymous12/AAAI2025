@@ -67,6 +67,35 @@ The MathSpeech benchmark dataset is available on huggingface🤗.
 </div>
 
 
+<table border="1" style="border-collapse: collapse; width: 50%;">
+    <caption>Dataset statistics</caption>
+    <thead>
+        <tr>
+            <th style="text-align: left;">Total Duration</th>
+            <td>5583.2 seconds</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th style="text-align: left;">Average Duration per file</th>
+            <td>5.07 seconds</td>
+        </tr>
+        <tr>
+            <th style="text-align: left;">The number of men</th>
+            <td>8</td>
+        </tr>
+        <tr>
+            <th style="text-align: left;">The number of women</th>
+            <td>2</td>
+        </tr>
+        <tr>
+            <th style="text-align: left;">source</th>
+            <td>MIT OpenCourseWare</td>
+        </tr>
+    </tbody>
+</table>
+
+
 
 
 ## Experiment codes
