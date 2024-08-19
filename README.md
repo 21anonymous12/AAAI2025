@@ -39,7 +39,7 @@ The MathSpeech benchmark dataset is available on huggingface🤗.
         </tr>
         <tr>
             <th style="text-align: left;">source</th>
-            <td>[MIT OpenCourseWare](https://www.youtube.com/@mitocw)</td>
+            <td><a href="https://www.youtube.com/@mitocw" target="_blank">[MIT OpenCourseWare]</td>
         </tr>
     </tbody>
 </table>
@@ -92,6 +92,7 @@ The MathSpeech benchmark dataset is available on huggingface🤗.
     </tr>
   </tbody>
 </table>
+
 ##### The WER for Leaderboard was from the [HuggingFace Open ASR Leaderboard](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard), while the WER for Formula was measured using our MathSpeech Benchmark.
 
 
