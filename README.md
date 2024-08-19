@@ -30,7 +30,7 @@ The MathSpeech benchmark dataset is available on huggingface🤗.
   </thead>
   <tbody>
     <tr>
-      <td>OpenAI</td>
+      <td rowspan="4">OpenAI</td>
       <td>Whisper-base</td>
       <td>74M</td>
       <td>10.3</td>
