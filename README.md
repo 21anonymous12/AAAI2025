@@ -68,7 +68,6 @@ The MathSpeech benchmark dataset is available on huggingface🤗.
 
 
 <table border="1" style="border-collapse: collapse; width: 50%;">
-    <caption>Dataset statistics</caption>
     <thead>
         <tr>
             <th style="text-align: left;">Total Duration</th>
@@ -94,7 +93,9 @@ The MathSpeech benchmark dataset is available on huggingface🤗.
         </tr>
     </tbody>
 </table>
-
+<div style="text-align: center; font-size: small; margin-top: 10px;">
+    Dataset statistics
+</div>
 
 
 
