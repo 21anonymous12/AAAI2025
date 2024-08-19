@@ -20,6 +20,12 @@ The MathSpeech benchmark dataset is available on huggingface🤗.
 <table border="1" style="border-collapse: collapse; width: 50%;">
     <thead>
         <tr>
+            <th style="text-align: left;">The number of files</th>
+            <td>1,101</td>
+        </tr>
+    </thead>
+    <thead>
+        <tr>
             <th style="text-align: left;">Total Duration</th>
             <td>5583.2 seconds</td>
         </tr>
@@ -28,6 +34,10 @@ The MathSpeech benchmark dataset is available on huggingface🤗.
         <tr>
             <th style="text-align: left;">Average Duration per file</th>
             <td>5.07 seconds</td>
+        </tr>
+        <tr>
+            <th style="text-align: left;">The number of speakers</th>
+            <td>8</td>
         </tr>
         <tr>
             <th style="text-align: left;">The number of men</th>
