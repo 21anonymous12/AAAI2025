@@ -18,7 +18,6 @@ The MathSpeech benchmark dataset is available on huggingface🤗.
 
 
 <table style="width:100%; border-collapse: collapse;">
-  <caption>The WER for Leaderboard was from the HuggingFace Open ASR Leaderboard, while the WER for Formula was measured using our MathSpeech Benchmark.</caption>
   <thead>
     <tr>
       <th></th>
@@ -62,6 +61,7 @@ The MathSpeech benchmark dataset is available on huggingface🤗.
       <td>35.2</td>
     </tr>
   </tbody>
+    <caption>The WER for Leaderboard was from the HuggingFace Open ASR Leaderboard, while the WER for Formula was measured using our MathSpeech Benchmark.</caption>
 </table>
 
 
