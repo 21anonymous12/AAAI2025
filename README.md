@@ -119,12 +119,6 @@ You can find the MathSpeech evaluation code, and the prompts used for the LLMs i
 
 You can find the code used in our Ablation Study at the following [link](https://github.com/21anonymous12/AAAI2025/tree/main/Ablation_Study).
 
-### Requirements
-To build the environment, run the following code
-```bash
-pip install -r requirements.txt
-```
-
 ---
 ## How to Use
 1. Clone this repository using the web URL.
