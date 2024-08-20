@@ -107,10 +107,6 @@ The MathSpeech benchmark dataset is available on huggingface🤗.
 
 
 ---
-## Dependencies
-- PyTorch==2.3.1
-- transformers==4.44.0
-
 ## MathSpeech Checkpoint
 You can download the MathSpeech checkpoint from the following [link](https://drive.google.com/file/d/1y2SoovDDRSB36paRHUE995wysvZ-1nch/view?usp=sharing).
 
@@ -122,6 +118,8 @@ You can find the MathSpeech evaluation code, and the prompts used for the LLMs i
 
 You can find the code used in our Ablation Study at the following [link](https://github.com/21anonymous12/AAAI2025/tree/main/Ablation%20Study).
 
+## How to Use
+1. Run 'ASR.py' 
 
 
 
