@@ -111,10 +111,12 @@ The MathSpeech benchmark dataset is available on huggingface🤗.
 - PyTorch==2.3.1
 - transformers==4.44.0
 
-## Experiment codes
+## MathSpeech Checkpoint
 You can download the MathSpeech checkpoint from the following [link](https://drive.google.com/file/d/1y2SoovDDRSB36paRHUE995wysvZ-1nch/view?usp=sharing).
 
+### Experiments codes
 
+You can find the MathSpeech evaluation code and the prompts used for the LLMs in the experiments at the following [link].
 
 
 
