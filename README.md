@@ -125,19 +125,22 @@ You can find the code used in our Ablation Study at the following [link](https:/
 ```bash
 git clone https://github.com/21anonymous12/AAAI2025.git
 ```
-2. Place [the audio dataset and the transcription Excel file](https://drive.google.com/drive/folders/1WNm3UfADE19zOOo_HYAQbFB6ah9-MzXT?usp=sharing) inside the ASR folder.
-
-3. Run the following code.
+2. To build the environment, run the following code
+```bash
+pip install -r requirements.txt
+```
+3. Place [the audio dataset and the transcription Excel file](https://drive.google.com/drive/folders/1WNm3UfADE19zOOo_HYAQbFB6ah9-MzXT?usp=sharing) inside the ASR folder.
+4. Run the following code.
 ```bash
 python ASR.py
 ```
-4. Go to the Experiments folder
-5. Move the 'MathSpeech_checkpoint.pth' from the following [link](https://drive.google.com/file/d/1y2SoovDDRSB36paRHUE995wysvZ-1nch/view?usp=sharing) into the Experiments folder.
-6. Run the following code.
+5. Go to the Experiments folder
+6. Move the 'MathSpeech_checkpoint.pth' from the following [link](https://drive.google.com/file/d/1y2SoovDDRSB36paRHUE995wysvZ-1nch/view?usp=sharing) into the Experiments folder.
+7. Run the following code.
 ```bash
 python MathSpeech_eval.py
 ```
-7. If you want to run LLMs like GPT-4o or Gemini, you'll need to configure the environment settings such as the API key and endpoint.
-8. You can also run the Ablation Study code from the Ablation_Study folder.
+8. If you want to run LLMs like GPT-4o or Gemini, you'll need to configure the environment settings such as the API key and endpoint.
+9. You can also run the Ablation Study code from the Ablation_Study folder.
 
 **Notes:** Here, example code for performing ASR using whisper-base and whisper-small is provided. If you want to use a different ASR model, you can modify that part of the code to use our MathSpeech.
