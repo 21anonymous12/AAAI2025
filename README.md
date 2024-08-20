@@ -138,7 +138,7 @@ git clone https://github.com/21anonymous12/AAAI2025.git
 python ASR.py
 ```
 4. Go to the Experiments folder
-5. Move the MathSpeech checkpoint from the following [link](https://drive.google.com/file/d/1y2SoovDDRSB36paRHUE995wysvZ-1nch/view?usp=sharing) into the Experiments folder.
+5. Move the 'MathSpeech_checkpoint.pth' from the following [link](https://drive.google.com/file/d/1y2SoovDDRSB36paRHUE995wysvZ-1nch/view?usp=sharing) into the Experiments folder.
 6. Run the following code.
 ```bash
 python MathSpeech_eval.py
