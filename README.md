@@ -106,12 +106,13 @@ The MathSpeech benchmark dataset is available on huggingface🤗.
 ##### The WER for Leaderboard was from the [HuggingFace Open ASR Leaderboard](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard), while the WER for Formula was measured using our MathSpeech Benchmark.
 
 
-
+---
+## Dependencies
+- PyTorch==2.3.1
+- transformers==4.44.0
 
 ## Experiment codes
-We 
-
-- [MathSpeech in huggingface🤗 dataset](https://huggingface.co/datasets/1anonymous1/MathSpeech)
+You can download the MathSpeech checkpoint from the following [link](https://drive.google.com/file/d/1y2SoovDDRSB36paRHUE995wysvZ-1nch/view?usp=sharing).
 
 
 
@@ -119,15 +120,4 @@ We
 
 
 
-
-## Fine-tuned Models
-We have fine-tuned a range of models on the MathBridge. These models are available for download and use on Hugging Face.
-
-### Available Models:
-- **MathBridge T5 Small**: [huggingface🤗 model](https://huggingface.co/aaai25withanonymous/MathBridge_T5_small)
-- **MathBridge T5 Base**: [huggingface🤗 model](https://huggingface.co/aaai25withanonymous/MathBridge_T5_base)
-- **MathBridge T5 Large**: [huggingface🤗 model](https://huggingface.co/aaai25withanonymous/MathBridge_T5_large)
-- **MathBridge BART Base**: [huggingface🤗 model](https://huggingface.co/aaai25withanonymous/MathBridge_BART_base)
-- **MathBridge BART Large**: [huggingface🤗 model](https://huggingface.co/aaai25withanonymous/MathBridge_BART_large)
-- **MathBridge mBART**: [huggingface🤗 model](https://huggingface.co/aaai25withanonymous/MathBridge_mBART)
 
