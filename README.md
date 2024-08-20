@@ -127,7 +127,9 @@ pip install -r requirements.txt
 
 ---
 ## How to Use
-1. Run 'ASR.py' 
-
+1. Clone this repository using the web URL.
+```bash
+git clone 
+```
 
 
