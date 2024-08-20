@@ -13,6 +13,8 @@ Here, you can find the benchmark dataset, experimental code, and fine-tuned mode
 ## Benchmart Dataset
 The MathSpeech benchmark dataset is available on [huggingface🤗](https://huggingface.co/datasets/1anonymous1/MathSpeech) or through the following [link](https://drive.google.com/drive/folders/1WNm3UfADE19zOOo_HYAQbFB6ah9-MzXT?usp=sharing).
 
+- [MathSpeech in huggingface🤗 dataset](https://huggingface.co/datasets/aaai25withanonymous/MathBridge)
+- [Drive link for dataset](https://drive.google.com/drive/folders/1WNm3UfADE19zOOo_HYAQbFB6ah9-MzXT?usp=sharing)
 
 
 #### Dataset statistics
