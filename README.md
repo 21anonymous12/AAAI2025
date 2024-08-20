@@ -145,3 +145,5 @@ python MathSpeech_eval.py
 ```
 7. If you want to run LLMs like GPT-4 or Gemini, you'll need to configure the environment settings such as the API key and endpoint.
 8. You can also run the Ablation Study code from the Ablation Study folder.
+
+**Notes:** Here, example code for performing ASR using whisper-base and whisper-small is provided. If you want to use a different ASR model, you can modify that part of the code to use our MathSpeech.
