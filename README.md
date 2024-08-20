@@ -129,7 +129,19 @@ pip install -r requirements.txt
 ## How to Use
 1. Clone this repository using the web URL.
 ```bash
-git clone 
+git clone https://github.com/21anonymous12/AAAI2025.git
 ```
+2. Place the audio dataset and the transcription Excel file inside the ASR folder.
 
-
+3. Run the following code.
+```bash
+python ASR.py
+```
+4. Go to the Experiments folder
+5. Move the MathSpeech checkpoint from the following [link](https://drive.google.com/file/d/1y2SoovDDRSB36paRHUE995wysvZ-1nch/view?usp=sharing) into the Experiments folder.
+6. Run the following code.
+```bash
+python MathSpeech_eval.py
+```
+7. If you want to run LLMs like GPT-4 or Gemini, you'll need to configure the environment settings such as the API key and endpoint.
+8. You can also run the Ablation Study code from the Ablation Study folder.
