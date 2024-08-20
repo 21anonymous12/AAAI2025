@@ -120,9 +120,9 @@ You can find the code used in our Ablation Study at the following [link](https:/
 
 ### Requirements
 To build the environment, run the following code
-```python
+```bash
 pip install -r requirements.txt
-
+```
 
 ---
 ## How to Use
