@@ -131,7 +131,7 @@ pip install -r requirements.txt
 ```bash
 git clone https://github.com/21anonymous12/AAAI2025.git
 ```
-2. Place the audio dataset and the transcription Excel file inside the ASR folder.
+2. Place [the audio dataset and the transcription Excel file](https://drive.google.com/drive/folders/1WNm3UfADE19zOOo_HYAQbFB6ah9-MzXT?usp=sharing) inside the ASR folder.
 
 3. Run the following code.
 ```bash
